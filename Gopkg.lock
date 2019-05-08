@@ -351,7 +351,7 @@
   ]
   pruneopts = ""
   revision = "71d233ede685707df554ef653e06bf7f0229415c"
-  version = "v0.0.10"
+  version = "v0.0.11"
 
 [[projects]]
   digest = "1:5b179070a620e93dfaa2bf568e052f22acb8126570987a6b7641b7a008a1b5a3"

@@ -7,5 +7,5 @@ spec:
   source: federation
   sourceNamespace: openshift-operator-lifecycle-manager
   name: federation
-  startingCSV: federation.v0.0.10
+  startingCSV: federation.v0.0.11
   channel: alpha
